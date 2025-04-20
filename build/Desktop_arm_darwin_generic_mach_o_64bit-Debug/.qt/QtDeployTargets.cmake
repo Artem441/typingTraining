@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Task_1_Lr_5_FILE /Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/Task_1_Lr_5.app/Contents/MacOS/Task_1_Lr_5)
+set(__QT_DEPLOY_TARGET_Task_1_Lr_5_TYPE EXECUTABLE)
