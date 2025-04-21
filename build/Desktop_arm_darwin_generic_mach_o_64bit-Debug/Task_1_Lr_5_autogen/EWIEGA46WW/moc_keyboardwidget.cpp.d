@@ -890,7 +890,6 @@
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdarg.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QMap \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QTimer \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20iterator.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
@@ -905,7 +904,6 @@
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qatomic.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbasictimer.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbytearray.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
@@ -996,7 +994,6 @@
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtimer.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \

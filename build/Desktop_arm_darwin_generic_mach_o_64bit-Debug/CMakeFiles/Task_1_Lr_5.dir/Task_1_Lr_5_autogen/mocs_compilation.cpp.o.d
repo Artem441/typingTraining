@@ -1122,25 +1122,21 @@ CMakeFiles/Task_1_Lr_5.dir/Task_1_Lr_5_autogen/mocs_compilation.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qsizepolicy.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qcursor.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qbitmap.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QPushButton \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qpushbutton.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractbutton.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QGridLayout \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qgridlayout.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlayout.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlayoutitem.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qboxlayout.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QPushButton \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qpushbutton.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractbutton.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QMap \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QTimer \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qtimer.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qbasictimer.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qtmochelpers.h \
   /Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/Task_1_Lr_5_autogen/EWIEGA46WW/moc_mainwindow.cpp \
   /Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/Task_1_Lr_5_autogen/EWIEGA46WW/../../../../mainwindow.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QMainWindow \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qtabwidget.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QVBoxLayout \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QTextEdit \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qtextedit.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractscrollarea.h \
@@ -1150,35 +1146,4 @@ CMakeFiles/Task_1_Lr_5.dir/Task_1_Lr_5_autogen/mocs_compilation.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextoption.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextcursor.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextformat.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpen.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QLabel \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlabel.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpicture.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qiodevice.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QString \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/QKeyEvent \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qevent.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreevent.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qeventpoint.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qvector2d.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qvectornd.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpointingdevice.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qinputdevice.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qscreen.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QList \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QObject \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QRect \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QSize \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QSizeF \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/QTransform \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qnativeinterface.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qscreen_platform.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qguiapplication.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreapplication.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qdeadlinetimer.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qeventloop.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreapplication_platform.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qinputmethod.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qlocale.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qguiapplication_platform.h
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpen.h

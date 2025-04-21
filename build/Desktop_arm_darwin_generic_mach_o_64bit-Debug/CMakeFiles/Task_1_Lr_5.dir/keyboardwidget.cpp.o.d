@@ -1121,16 +1121,17 @@ CMakeFiles/Task_1_Lr_5.dir/keyboardwidget.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qsizepolicy.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qcursor.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qbitmap.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QPushButton \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qpushbutton.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractbutton.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QGridLayout \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qgridlayout.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlayout.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlayoutitem.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qboxlayout.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QPushButton \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qpushbutton.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractbutton.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QMap \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QTimer \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qtimer.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qbasictimer.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QSpacerItem
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QSpacerItem \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QDebug

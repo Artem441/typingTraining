@@ -898,14 +898,7 @@ Task_1_Lr_5_autogen/timestamp: \
 	/Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/main.cpp \
 	/Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/mainwindow.cpp \
 	/Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/mainwindow.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QList \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QMap \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QRect \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QSize \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QSizeF \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QString \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QTimer \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20iterator.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
@@ -920,7 +913,6 @@ Task_1_Lr_5_autogen/timestamp: \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qatomic.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbasictimer.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbytearray.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
@@ -937,16 +929,10 @@ Task_1_Lr_5_autogen/timestamp: \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qcoreapplication.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qcoreapplication_platform.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qcoreevent.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdeadlinetimer.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qelapsedtimer.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qendian.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qeventloop.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
@@ -958,14 +944,12 @@ Task_1_Lr_5_autogen/timestamp: \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qline.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h \
@@ -975,7 +959,6 @@ Task_1_Lr_5_autogen/timestamp: \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qminmax.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qnamespace.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qnativeinterface.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qnumeric.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qobject.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h \
@@ -1020,7 +1003,6 @@ Task_1_Lr_5_autogen/timestamp: \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtimer.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
@@ -1038,38 +1020,26 @@ Task_1_Lr_5_autogen/timestamp: \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qyieldcpu.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/QKeyEvent \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/QTransform \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qaction.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qbitmap.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qbrush.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qcolor.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qcursor.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qevent.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qeventpoint.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qfont.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qfontmetrics.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qguiapplication.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qguiapplication_platform.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qicon.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qimage.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qinputdevice.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qinputmethod.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpen.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpicture.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpointingdevice.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qregion.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qscreen.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qscreen_platform.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextcursor.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextdocument.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextformat.h \
@@ -1078,22 +1048,17 @@ Task_1_Lr_5_autogen/timestamp: \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qvector2d.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qvectornd.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QGridLayout \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QLabel \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QPushButton \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QTextEdit \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QVBoxLayout \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractbutton.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractscrollarea.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qboxlayout.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgridlayout.h \
-	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayout.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayoutitem.h \
 	/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \

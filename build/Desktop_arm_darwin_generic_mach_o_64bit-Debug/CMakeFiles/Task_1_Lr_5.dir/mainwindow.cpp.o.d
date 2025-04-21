@@ -1123,11 +1123,6 @@ CMakeFiles/Task_1_Lr_5.dir/mainwindow.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qcursor.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qbitmap.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qtabwidget.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QVBoxLayout \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qboxlayout.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlayout.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlayoutitem.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qgridlayout.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QTextEdit \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qtextedit.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractscrollarea.h \
@@ -1138,14 +1133,41 @@ CMakeFiles/Task_1_Lr_5.dir/mainwindow.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextcursor.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextformat.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpen.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QLabel \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlabel.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpicture.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qiodevice.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QString \
+  /Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/keyboardwidget.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QWidget \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QGridLayout \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qgridlayout.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlayout.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlayoutitem.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qboxlayout.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QPushButton \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qpushbutton.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractbutton.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QMap \
+  /Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/Task_1_Lr_5_autogen/include/ui_mainwindow.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QVariant \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QApplication \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qapplication.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreapplication.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreevent.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qdeadlinetimer.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qeventloop.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qnativeinterface.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreapplication_platform.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qguiapplication.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qinputmethod.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qlocale.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qguiapplication_platform.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QMenuBar \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qmenubar.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qmenu.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QStatusBar \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qstatusbar.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QVBoxLayout \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/QKeyEvent \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qevent.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreevent.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qiodevice.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qeventpoint.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qvector2d.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qvectornd.h \
@@ -1158,33 +1180,75 @@ CMakeFiles/Task_1_Lr_5.dir/mainwindow.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QSize \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QSizeF \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/QTransform \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qnativeinterface.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qscreen_platform.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qguiapplication.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreapplication.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qdeadlinetimer.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qeventloop.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreapplication_platform.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qinputmethod.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qlocale.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qguiapplication_platform.h \
-  /Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/keyboardwidget.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QWidget \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QPushButton \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qpushbutton.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractbutton.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QGridLayout \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QMap \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QTimer \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qtimer.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qbasictimer.h \
-  /Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/Task_1_Lr_5_autogen/include/ui_mainwindow.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QVariant \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QApplication \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qapplication.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QMenuBar \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qmenubar.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qmenu.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QStatusBar \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qstatusbar.h
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QDebug \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QFileDialog \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qfiledialog.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qdir.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qdirlisting.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qfiledevice.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qdatetime.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcalendar.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qfile.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/filesystem \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/copy_options.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/directory_entry.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/file_status.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/file_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/perms.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/file_time_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/path.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/iomanip \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/istream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/ostream \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/bitset \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/format \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/container_adaptor.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/range_default_formatter.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/range_formatter.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/format_context.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/format_arg_store.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/format_args.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__ranges/ref_view.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/queue \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/deque \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/stack \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/format_functions.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_char.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/write_escaped.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/escaped_output_table.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_floating_point.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__charconv/chars_format.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__charconv/to_chars_floating_point.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_integer.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_pointer.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_string.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__format/formatter_tuple.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/print \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/unistd.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/operations.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/perm_options.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/space_info.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/directory_iterator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/directory_options.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/path_iterator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk/usr/include/c++/v1/__filesystem/u8path.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qfileinfo.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qtimezone.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qdialog.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QFile \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QComboBox \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qcombobox.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractitemdelegate.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qstyleoption.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractspinbox.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qvalidator.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qregularexpression.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qslider.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qabstractslider.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qstyle.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qtabbar.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qrubberband.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qabstractitemmodel.h

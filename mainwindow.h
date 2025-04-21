@@ -2,17 +2,11 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QVBoxLayout>
 #include <QTextEdit>
-#include <QLabel>
-#include <QString>
-#include <QKeyEvent>
 #include "keyboardwidget.h"
 
 QT_BEGIN_NAMESPACE
-namespace Ui {
-class MainWindow;
-}
+namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
 
 class MainWindow : public QMainWindow
@@ -22,12 +16,20 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+
 protected:
     void keyPressEvent(QKeyEvent *event) override;
+
 private:
     Ui::MainWindow *ui;
-    keyboardwidget* keyboard;
+    keyboardwidget *keyboard;
     QTextEdit *textEdit;
-
+    bool eventFilter(QObject *obj, QEvent *event) override;
+    void loadTextFromFile();
+    void updateDisplayText();
+    QString originalText;
+    int currentIndex = 0;
+    QVector<bool> correctness;
 };
 #endif // MAINWINDOW_H
+
