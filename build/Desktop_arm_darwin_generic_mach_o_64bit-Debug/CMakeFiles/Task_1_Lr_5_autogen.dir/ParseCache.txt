@@ -896,6 +896,7 @@
  mdp:/Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/Task_1_Lr_5_autogen/moc_predefs.h
  mdp:/Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/keyboardwidget.h
  mdp:/Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/mainwindow.h
+ mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QElapsedTimer
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QMap
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20iterator.h
@@ -930,6 +931,7 @@
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h
+ mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qelapsedtimer.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qendian.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h
@@ -942,6 +944,7 @@
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h
+ mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevice.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h
@@ -1032,6 +1035,7 @@
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpalette.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpen.h
+ mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpicture.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h
@@ -1048,6 +1052,7 @@
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QGridLayout
+ mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QLabel
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QPushButton
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QTextEdit
@@ -1057,6 +1062,7 @@
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qboxlayout.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgridlayout.h
+ mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayout.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayoutitem.h
  mdp:/Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h

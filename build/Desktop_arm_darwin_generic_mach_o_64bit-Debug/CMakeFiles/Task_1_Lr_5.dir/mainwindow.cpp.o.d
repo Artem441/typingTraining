@@ -1133,6 +1133,12 @@ CMakeFiles/Task_1_Lr_5.dir/mainwindow.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextcursor.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextformat.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpen.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QElapsedTimer \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QLabel \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlabel.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpicture.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qiodevice.h \
   /Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/keyboardwidget.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QWidget \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QGridLayout \
@@ -1151,7 +1157,6 @@ CMakeFiles/Task_1_Lr_5.dir/mainwindow.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreapplication.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreevent.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qdeadlinetimer.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qeventloop.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qnativeinterface.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qcoreapplication_platform.h \
@@ -1167,7 +1172,6 @@ CMakeFiles/Task_1_Lr_5.dir/mainwindow.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QVBoxLayout \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/QKeyEvent \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qevent.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qiodevice.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qeventpoint.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qvector2d.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qvectornd.h \

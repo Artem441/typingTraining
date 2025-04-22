@@ -3,6 +3,8 @@
 
 #include <QMainWindow>
 #include <QTextEdit>
+#include <QElapsedTimer>
+#include <QLabel>
 #include "keyboardwidget.h"
 
 QT_BEGIN_NAMESPACE
@@ -30,6 +32,12 @@ private:
     QString originalText;
     int currentIndex = 0;
     QVector<bool> correctness;
+    QLabel* statsLabel;
+    QPushButton* restartButton;
+    bool timerStarted = false;
+    QElapsedTimer timer;
+    void updateStats();
+    void resetAll();
 };
 #endif // MAINWINDOW_H
 

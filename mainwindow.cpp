@@ -36,6 +36,13 @@ MainWindow::MainWindow(QWidget *parent)
         textEdit->insertPlainText(key);
     });
 
+    statsLabel = new QLabel("Время: 0 c | Точность 0% | Скорость: 0 зн/мин",this);
+    mainLayout->addWidget(statsLabel);
+
+    restartButton = new QPushButton("Перезапустить",this);
+    mainLayout->addWidget(restartButton);
+    connect(restartButton,&QPushButton::clicked,this,&MainWindow::resetAll);
+
     setCentralWidget(centralWidget);
     resize(800, 400);
 }
@@ -100,6 +107,31 @@ void MainWindow::updateDisplayText()
     }
     textEdit->setHtml(display);
 }
+
+void MainWindow::updateStats()
+{
+    if(!timerStarted || currentIndex == 0) return;
+
+    int correctCount = std::count(correctness.begin(),correctness.begin()+currentIndex,true);
+    int incorrectCount = currentIndex - correctCount;
+    int elapsedSec = timer.elapsed() / 1000;
+
+    double accuracy = (double(correctCount) / currentIndex) * 100.0;
+    double cpm = elapsedSec > 0 ? (currentIndex*60/elapsedSec) : 0;
+
+    statsLabel->setText(QString("Время: %1 с | Точность: %2% | Скорость: %3 зн/мин").arg(elapsedSec).arg(int(accuracy)).arg(int(cpm)));
+}
+
+void MainWindow::resetAll()
+{
+    currentIndex = 0;
+    timerStarted = false;
+    correctness.clear();
+    correctness.resize(originalText.size());
+    statsLabel->setText("Время: 0 с | Точность: 0% | Скорость: 0 зн/мин");
+    textEdit->clear();
+    updateDisplayText();
+}
 bool MainWindow::eventFilter(QObject *obj, QEvent *event) {
     if (obj == textEdit && event->type() == QEvent::KeyPress) {
         QKeyEvent* keyEvent = static_cast<QKeyEvent*>(event);
@@ -116,6 +148,10 @@ bool MainWindow::eventFilter(QObject *obj, QEvent *event) {
             }
             return true;
         }
+        if (!timerStarted) {
+            timer.start();
+            timerStarted = true;
+        }
 
         if (!keyText.isEmpty() && currentIndex < originalText.length()) {
             QChar expectedChar = originalText[currentIndex];
@@ -129,13 +165,13 @@ bool MainWindow::eventFilter(QObject *obj, QEvent *event) {
 
             currentIndex++;
             updateDisplayText();
+            updateStats();
             return true;
         }
     }
 
     return QMainWindow::eventFilter(obj, event);
 }
-
 
 
 

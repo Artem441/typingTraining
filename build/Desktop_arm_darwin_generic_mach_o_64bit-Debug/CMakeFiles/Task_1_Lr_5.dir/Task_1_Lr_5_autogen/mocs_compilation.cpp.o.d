@@ -1146,4 +1146,10 @@ CMakeFiles/Task_1_Lr_5.dir/Task_1_Lr_5_autogen/mocs_compilation.cpp.o: \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextoption.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextcursor.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qtextformat.h \
-  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpen.h
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpen.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/QElapsedTimer \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qelapsedtimer.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/QLabel \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers/qlabel.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Headers/qpicture.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Headers/qiodevice.h

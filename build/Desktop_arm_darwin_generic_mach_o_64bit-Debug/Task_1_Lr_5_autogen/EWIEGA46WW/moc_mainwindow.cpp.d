@@ -890,6 +890,7 @@
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/limits.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/stdarg.h \
   /Users/artembelcikova/Documents/453501/ОАиП_2/Lr_5/Task_1_Lr_5/keyboardwidget.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QElapsedTimer \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/QMap \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/q20iterator.h \
@@ -924,6 +925,7 @@
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qelapsedtimer.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qendian.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
@@ -936,6 +938,7 @@
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
@@ -1026,6 +1029,7 @@
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpen.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpicture.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
@@ -1042,6 +1046,7 @@
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QGridLayout \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QLabel \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QPushButton \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QTextEdit \
@@ -1051,6 +1056,7 @@
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qboxlayout.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgridlayout.h \
+  /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayout.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayoutitem.h \
   /Users/artembelcikova/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
